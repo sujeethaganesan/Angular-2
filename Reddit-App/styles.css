@@ -1,0 +1,113 @@
+.item
+{
+
+  float:left;
+  border-left:1px solid rgba(34,36,38,.1);
+   border-right:1px solid rgba(34,36,38,.1);
+  padding: 10px 30px;
+  margin-left: 100px;
+}
+.item:hover
+{
+  background-color:#f2f2f2;
+}
+.item img
+{
+      display: inline-block;
+    vertical-align: middle;
+        
+}
+.jumbotron
+{
+  border-radius: 0px;
+}
+.title
+{
+
+    background-color: #ffffff;
+    padding: 0px;
+    margin: 0px;
+    float:left;
+  
+
+}
+.clearFix
+{
+  clear:both;
+}
+.title h1
+{
+  font-size: 35px;
+}
+.top
+{
+    border:1px solid rgba(34,36,38,.1);
+    width:100%;
+    margin-top: 20px;
+    box-shadow: 0px 3px 1px #f2f2f2;
+}
+.top a
+{
+  color:black;
+  font-weight: 700;
+}
+.top a:hover
+{
+  text-decoration: none;
+}
+.article
+{
+  margin-top: 21px;
+    background-color: #ccebff;
+    padding: 26px 48px 59px 48px;
+}
+.sub-link
+{
+  color:white;
+  background-color: #00ff00;
+}
+.sub-link:hover,.sub-link:visited
+{
+color:white;
+background-color: #00cc00;
+}
+.voter li
+{
+  display:inline-block;
+  cursor:pointer;
+}
+.details .col-md-3,.details .col-md-6
+{
+min-height:214px;
+}
+.vote
+{
+    width: 77px;
+    padding: 2px;
+    margin-top: 55px;
+    font-size: 69px;
+    margin-left: 89px;
+}
+.vote+p
+{
+  text-align: center;
+}
+.titleName
+{
+      text-align: center;
+    padding: 14px 74px;
+    display: inline-block;
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+}
+.titleName+ul
+{
+margin-left:53px;
+}
+.sub
+{
+      margin-left: 40px;
+    padding: 0px 31px;
+}
+
